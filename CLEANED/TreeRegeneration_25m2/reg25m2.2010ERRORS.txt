@@ -1,0 +1,18 @@
+** July 7, 2015; Culled from Reg25m2.2010.dat, corrected in Reg25m2.2010COR.dat.
+** Nulls left in place so line numbers in COR same as orig.
+** .csv is correct.  CTC facit
+
+  *Bad Entries*
+90: C31 2  0
+96: C32 2  0
+100: C28 4  0
+107: C29 4  0
+108: C29 5  0
+111: C53 2  0
+123: L04 2  0
+223: T07 2  0
+267: C46 2  0
+272: L07 2  0
+287: L01 3  1.0 2.3
+313: C55 1  0
+815: C14 6  26

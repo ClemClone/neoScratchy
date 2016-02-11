@@ -1,0 +1,2 @@
+  *Bad Entries for ./REG200M2.2009.dat*
+358: 6G2 522 0 1.3

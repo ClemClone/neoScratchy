@@ -1,0 +1,7 @@
+!PLOT # 200 M FIA_SPP   DBH  COUNT
+              PB           2 1
+              RM           1 7
+              RM           2 5
+              WP           3 1
+              witch        1 17
+              witch        2 4

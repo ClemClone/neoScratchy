@@ -1,0 +1,2 @@
+  *Bad Entries for ./REG200M2.2004.dat*
+1: 2004 data Quadrat Species ConditioHtClass2HtClass3HtClass4HtClass5HtClass6HtClass7HtClass8

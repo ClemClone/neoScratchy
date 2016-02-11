@@ -1,0 +1,30 @@
+	NOTES ON THE CONVERTED DATA FILES
+	Clarke Cooper
+	August 21, 2015
+
+Thirty study directories in 
+	HRF_GATEWAY\Gateway_D\Susan_F 
+were copied to 
+	C:\Users\Clarke Cooper\Documents\scratchData 
+on HRF-LENOVO on 6/2/2015.  For each study listed below, the least processed data files for each study year in [study]\3_Data were identified and processed with perl scripts stored in 
+	C:\Users\Clarke Cooper\Documents\scratchData\perlScripts
+The original files are in varying space-delimited formats, most with tally numbers in the compact form [COUNT].[SIZECLASS] and using varying filename conventions.  The output is uniform comma-delimited files (order of columns shown below) with tally numbers unpacked and filenames normalized to [STUDY].[YEAR].csv; HRF species codes (SPEC) have been translated to FIA species codes (FIASP).  The individual csv files for each study year have also been concatenated into complete all-years files named [STUDY].ALL.csv.
+
+To the extent possible data was screened for typos and impossible values.  Where substantive errors were found in the data files, per-file listings of the errors are saved as [filename]BAD.txt.  These were checked against the original data record sheets and corrected as necessary, and the files renamed to [filename]COR.dat, then reprocessed.
+
+This process has been necessarily ad hoc -- even within a single study -- so the conversion scripts are fiddly despite an effort to make them modular and properly commented.  The most important of them is dat2csv.pl, where the specific match patterns and special operations peculiar to each datafile variant have been retained.  
+
+The resulting csv files for the following studies are stored in
+	C:\Users\Clarke Cooper\Documents\scratchData\CLEANED\[study]
+
+Seedlings_S1
+YEAR,LINE,PLOT,SPEC,FIASP,HT1,HT2,HT3,HT4
+		
+TreeRegeneration_4m2
+YEAR,QUAD,PLOT,SPEC,FIASP,HT1,HT2,HT3,HT4
+
+TreeRegeneration_25m2
+YEAR,TRAN,PLOT,SPEC,FIASP,DAM,SZ0,SZ1,SZ2,SZ3,SZ4,SZ5,SZ6,SZ7,SZ8,SZ9
+
+TreeRegeneration_200m2
+YEAR,QUAD,SPEC,FIASP,COND,SZ2,SZ3,SZ4,SZ5,SZ6,SZ7,SZ8,SZ9

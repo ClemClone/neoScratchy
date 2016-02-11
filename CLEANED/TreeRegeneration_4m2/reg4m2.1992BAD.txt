@@ -1,0 +1,2 @@
+  *Bad Entries for ./reg4m2.1992.dat*
+42: 3F13   5.0   1.7   2.2

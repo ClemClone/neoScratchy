@@ -1,0 +1,9 @@
+!PLOT # 200 M FIA_SPP   DBH  COUNT
+              BF           2 1
+              GB           1 4
+              RM           1 14
+              RM           2 5
+              RM           3 1
+              WP           1 1
+              WP           2 1
+              bc           1 1

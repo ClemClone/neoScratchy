@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml packageId="dummyId.24.1" xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" system="knb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 eml.xsd">
+	<dataset>
+		<title>Tree Regeneration 200m2</title>
+		<creator>
+<!--  -->
+			<individualName>
+				<givenName>J.W.</givenName>
+				<surName>Witham</surName>
+			</individualName>
+			<electronicMailAddress>jwitham@maine.edu</electronicMailAddress>
+		</creator>
+		
+		<metadataProvider>
+			<individualName>
+				<givenName>Clarke</givenName>
+				<surName>Cooper</surName>
+			</individualName>
+			<electronicMailAddress>clarke.cooper@maine.edu</electronicMailAddress>
+		</metadataProvider>
+		
+<!--		<associatedParty></associatedParty> -->
+		
+		<abstract><para>The 200m2 plot was designed to assess tree regeneration at the scale of saplings 1.5-9.49cm dbh.  The 200m2 plots are centered on the center pin of each 25 x 25m quadrat. The boundary of the plot (radius = 7.98m) is determined by using a tape measure or marked rope. In 1984 160 quadrat-centered plots were measured.  In 1992 and 1997 100 plots on well- and excessively well-drained soil were measured. The 200m2 plots were too large to fit within gaps, so the 4m2 and 25m2 regeneration plots were used to assess regeneration differences between gaps and intact forest (see meta files for those datasets).      </para></abstract>
+		<keywordSet>
+			<keyword>Maine</keyword>
+			<keyword>mid-coast</keyword>
+			<keyword>forest</keyword>
+			<keyword>old-field</keyword>
+			<keyword>reforestation</keyword>
+			<keyword>harvest</keyword>
+		</keywordSet>
+		<additionalInfo><para>PRINCIPAL OBSERVERS: Primarily student crews </para>
+<para>START DATE: 1984  </para>
+<para>END DATE: Ongoing</para>
+<para>CODES: Height classes:1= &#x3C; 0.1m tall2= 0.1-0.49m tall3= 0.5-2m tall4= &#x3E;2m tall and &#x3C;1.5cm DBHSpecies:    1=WP    /*Pinus strobus (white pine)              */   2=RS    /*Picea rubens (red spruce)               */   3=BF    /*Abies balsamia (balsam fir)             */   4=HE    /*Tsuga canadensis (hemlock)              */   5=RO    /*Quercus rubra (red oak)                 */   6=WO    /*Quercus alba (white oak)                */   7=RM    /*Acer rubrum (red maple)                 */   8=YB    /*Betula alleghaniensis (yellow birch)    */   9=PB    /*Betula papyrifera (paper birch)         */  10=GB    /*Betula populifolia (gray birch)         */  11=BE    /*Fagus grandifolia (beech)               */  12=WA    /*Fraxinus americana (white ash)          */  13=MM    /*Acer pensylvanicum (striped maple)      ???*/  14=btasp /*Populus grandidentata (bigtooth aspen)  */  15=qa    /*Populus tremuloides (quaking aspen)     */  16=bc    /*Prunus serotina (black cherry)          */  17=apl   /*Pyrus malus (apple)                     */  18=HH    /*Ostrya virginiana (hop hornbeam)        */  19=PP    /*Pinus resinosa (red pine)               */  20=RP    /*Pinus rigida (pitch pine)               */  25=witch /*Hamamelis virginiana (witch hazel)      */  26=alder /*Alnus sp. (alder sp.)                   */  OTHER=&#x27;unknown&#x27;;</para></additionalInfo>
+
+		<intellectualRights></intellectualRights>
+<!--		<distribution></distribution> -->
+
+		<coverage>
+			<geographicCoverage id="hrfGeo">
+				<geographicDescription>An old-field forest in mid-coast Maine</geographicDescription>
+				<boundingCoordinates>
+					<westBoundingCoordinate>-69.778894</westBoundingCoordinate>
+					<eastBoundingCoordinate>-69.767318</eastBoundingCoordinate>
+					<northBoundingCoordinate>43.876513</northBoundingCoordinate>
+					<southBoundingCoordinate>43.866582</southBoundingCoordinate>
+				</boundingCoordinates>
+			</geographicCoverage>
+			<temporalCoverage>
+				<rangeOfDates>
+						<beginDate><calendarDate>1984</calendarDate></beginDate>
+						<endDate><calendarDate>2015</calendarDate></endDate>
+				</rangeOfDates>
+			</temporalCoverage>
+<!--			<taxonomicCoverage></taxonomicCoverage> -->
+		</coverage>
+		
+		<purpose></purpose>
+<!--		<maintenance></maintenance> -->
+		
+		<contact>
+			<organizationName>Holt Research Forest</organizationName>
+				<address>
+					<deliveryPoint>HRF</deliveryPoint>
+					<deliveryPoint>508 Old Stage Rd</deliveryPoint>
+					<city>Arrowsic</city>
+					<administrativeArea>ME</administrativeArea>
+					<postalCode>04530</postalCode>
+					<country>USA</country>
+				</address>
+				<phone>207-555-1234</phone>
+		</contact>
+		
+<!--		<methods></methods> -->
+		
+		<project>
+				<title>Holt Research Forest</title>
+				<personnel>
+			<individualName>
+				<givenName>J.W.</givenName>
+				<surName>Witham</surName>
+			</individualName>
+			<electronicMailAddress>jwitham@maine.edu</electronicMailAddress>
+			<role>Principal Researcher</role>
+				</personnel>
+				<abstract></abstract>
+				<funding></funding>
+<!--				<studyAreaDescription><descriptor><descriptorValue></descriptorValue></descriptor></studyAreaDescription> -->
+<!--				<designDescription></designDescription> -->
+		</project>
+		
+<!--		<dataTable id="xyz"></dataTable> -->
+
+	</dataset>
+<!--	<additionalMetadata><metadata><furthermore>Something Wonderful</furthermore></metadata></additionalMetadata> -->
+</eml:eml>

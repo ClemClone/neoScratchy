@@ -1,0 +1,107 @@
+METADATA .DOC FOR [Tree Regeneration 200m2] DATA SET
+
+THIS FILENAME:
+F:\TreeRegeneration_200m2\1_MetaData\TreeRegeneration200m2_Meta.doc
+
+TITLE OF STUDY: Tree Regeneration 200m2
+
+ABSTRACT: The 200m2 plot was designed to assess tree regeneration at the scale of saplings 1.5-9.49cm dbh.  The 200m2 plots are centered on the center pin of each 25 x 25m quadrat. The boundary of the plot (radius = 7.98m) is determined by using a tape measure or marked rope. In 1984 160 quadrat-centered plots were measured.  In 1992 and 1997 100 plots on well- and excessively well-drained soil were measured. The 200m2 plots were too large to fit within gaps, so the 4m2 and 25m2 regeneration plots were used to assess regeneration differences between gaps and intact forest (see meta files for those datasets).      
+
+PRINCIPAL OBSERVERS: Primarily student crews 
+
+START DATE: 1984  
+
+END DATE: Ongoing
+
+EQUIPMENT LOCATION: Garage
+
+DATA LOCATION: 
+Data sheets in: file cabinet 
+PC files in: Research associate/assistant PC
+Raw data files in: F:\TreeRegeneration_200m2\3_Data\RawData
+Intermediate data files in: F:\TreeRegeneration_200m2\3_Data
+
+DATASET FILE NAMES OR FORMATS (raw data): 
+REG200.84D
+REG200.92D
+REG200M2.97D
+
+ASSOCIATED FILES:
+
+Datasheets: F:\Holtdocs\Forms\Ti-Regen\Reg200m2.ds.wpd
+
+Instructions (fieldwork):
+F:\Holtdocs\Instructions\TechniquesManual\5_Chap3_PlantEcology\1_Trees\
+Regen.ins.wpd
+
+Data Entry: Text editor
+
+Data Analyses: F:\TreeRegeneration_200m2\4_Analysis\Sas\…
+
+Findings: F:\TreeRegeneration_200m2\5_Findings\…
+
+References: F:\TreeRegeneration_200m2\6_References\…
+
+DATA FORMAT: (Identify columns in order from left to right and any other organizational identification, data type $=character, otherwise numeric)
+QPLOT $ SPEC NREG1,NREG2,NREG3,…,NREGn
+for quadrats, QPLOT is quadrat number then plot number 1-4 e.g., 4D11
+NREG# give the number of stems, decimal, height class, e.g., 
+5J1 1 1.1 4.3
+5J1 7 1.2 2.3
+5J1 25 1.2 3.3 2.4
+in quadrat 5J, plot 1, for white pine, there were 1 in the 1st height class and 4 in the 3rd height class, for red mapled, 1 in the 2nd height class, etc.
+
+VARIABLES: (input format for corrected data)
+QPLOT $ SPEC NREG1,NREG2,NREG3,…,NREG10
+
+MISS CODE: "."
+
+UNITS: 
+DBH in centimeters
+Height in meters
+ 
+CODES:  
+Height classes:
+1= < 0.1m tall
+2= 0.1-0.49m tall
+3= 0.5-2m tall
+4= >2m tall and <1.5cm DBH
+Species: 
+   1=WP    /*Pinus strobus (white pine)              */
+   2=RS    /*Picea rubens (red spruce)               */
+   3=BF    /*Abies balsamia (balsam fir)             */
+   4=HE    /*Tsuga canadensis (hemlock)              */
+   5=RO    /*Quercus rubra (red oak)                 */
+   6=WO    /*Quercus alba (white oak)                */
+   7=RM    /*Acer rubrum (red maple)                 */
+   8=YB    /*Betula alleghaniensis (yellow birch)    */
+   9=PB    /*Betula papyrifera (paper birch)         */
+  10=GB    /*Betula populifolia (gray birch)         */
+  11=BE    /*Fagus grandifolia (beech)               */
+  12=WA    /*Fraxinus americana (white ash)          */
+  13=MM    /*Acer pensylvanicum (striped maple)      ???*/
+  14=btasp /*Populus grandidentata (bigtooth aspen)  */
+  15=qa    /*Populus tremuloides (quaking aspen)     */
+  16=bc    /*Prunus serotina (black cherry)          */
+  17=apl   /*Pyrus malus (apple)                     */
+  18=HH    /*Ostrya virginiana (hop hornbeam)        */
+  19=PP    /*Pinus resinosa (red pine)               */
+  20=RP    /*Pinus rigida (pitch pine)               */
+  25=witch /*Hamamelis virginiana (witch hazel)      */
+  26=alder /*Alnus sp. (alder sp.)                   */
+  OTHER='unknown';
+
+DATASET COMMENTS:  
+
+Other:
+
+PUBLICATIONS:
+
+SUMMARY STATISTICS:
+
+LAST UPDATE OF THIS .DOC FILE: 05JUN2007
+
+
+1
+F:\TreeRegeneration_200m2\1_MetaData\TreeRegeneration200m2_Meta.doc
+

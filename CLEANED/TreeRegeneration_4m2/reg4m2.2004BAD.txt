@@ -1,0 +1,3 @@
+  *Bad Entries for ./reg4m2.2004.dat*
+1: Quadrat PlotSpec A B C D
+600: 4I34 2.2

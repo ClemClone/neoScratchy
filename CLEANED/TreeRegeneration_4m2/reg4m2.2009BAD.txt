@@ -1,0 +1,7 @@
+  *Bad Entries for ./reg4m2.2009.dat*
+1: Variables quadrat plot where 1=north 2=east 3=south 4=west ; Species; # of stems.size class; # of stems.size class; etc.
+153: 7G22 2.1
+197: 7F22 100.1
+389: 8H34 7 10.7 2.2
+748: 4E13 13.1
+1162: 6D23 25.1

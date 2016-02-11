@@ -1,0 +1,41 @@
+From:             "Alan S. White" <white@apollo.umenfa.maine.edu>
+To:               kimball@apollo.umenfa.maine.edu,
+              nelson@apollo.umenfa.maine.edu,
+              hunter@apollo.umenfa.maine.edu,
+              jones@apollo.umenfa.maine.edu,
+              "Jack Witham" <rfy395@maine.MAINE.EDU>
+Date sent:        Thu, 27 Mar 1997 10:47:23 -0500
+Subject:          Re: TI Regeneration Discussion
+Priority:         normal
+
+I haven't had a chance to read the regen text in any depth, but a
+quick reading brought up a couple of questions.  First, it seems that
+the entire approach is designed to sample density.  I'm not sure
+density is as important as growth in small stems.  Density would be
+most important if there were lots of recruitment, which doesn't seem
+to be the case.  Perhaps it is important if there is lots of
+recruitment into a larger size class but that's difficult to detemine
+if you aren't using plots measured earlier.  On the other hand,
+growth would focus on sampling indiviuals (plots wouldn't be
+necessary), which could fit into any size gap, but measuring growth
+is only possible by destructive sampling, use of bud scars (ht
+growth) on accessible trees, or cores on saplings of sufficient size.
+ Second, matching the earlier sampling scheme is  not absolutely
+necessary.  It is most important if you are going to use the earlier
+data in a statistical comparison.  However, if you need to implement
+a radically different scheme to accomodate gaps, the main concern
+would be to see how the new scheme estimated density in the control
+areas and compare that to the old density measures for the same
+areas.  Unfortunately, you wouldn't know the relationship between old
+and new sampling schemes until you had actually done it.  That's my
+two bits worth of caution without any good suggestion!  Off to sample
+ponderosa pine, Douglas-fir, southwestern white pine, etc. in the
+Santa Catalina Mountains on another 75-degree sunny day. . . Alan
+
+Alan S. White
+Dept. of Forest Ecosystem Science
+5755 Nutting Hall
+University of Maine
+Orono, ME 04469-5755
+Telephone: (207)581-2851
+FAX: (207)581-4257

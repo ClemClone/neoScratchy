@@ -1,0 +1,7 @@
+!PLOT # 200 M FIA_SPP   DBH  COUNT
+              RO           2 1
+              RO           3 2
+              WO           3 2
+              witch        1 12
+              witch        2 4
+              witch        3 2

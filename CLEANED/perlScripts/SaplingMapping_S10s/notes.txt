@@ -1,0 +1,12 @@
+SaplingMapping_S10s
+
+File formats vary; going with s10nsYY.dat type
+
+s10ns89dd notes: ***condition=1 changed to 6 for trees noted as down ***
+s10ns95 adds "type" and "s10num95" to the very similar "sapnum"
+2010 data all in .xls and .csv of a different format.
+
+But wait...
+IntermediateData\s10allyears4xls.dat
+	renamed to s10allyears.csv
+seems okay and works in Excel (except "E" quad labels get interpreted as exponentiation...)

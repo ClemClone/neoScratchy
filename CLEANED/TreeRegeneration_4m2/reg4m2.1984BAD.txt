@@ -1,0 +1,2 @@
+  *Bad Entries for ./reg4m2.1984.dat*
+1422: 7I14  1.14
